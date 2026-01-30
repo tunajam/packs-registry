@@ -1,0 +1,10 @@
+name: pr-description
+version: 1.0.0
+type: skill
+description: Generate PR descriptions from branch diff by analyzing commits and changes.
+author: tunajam
+tags:
+  - git
+  - github
+  - pull-requests
+license: MIT

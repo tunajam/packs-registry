@@ -1,0 +1,10 @@
+name: youtube-transcript
+version: 1.0.0
+type: skill
+description: Download and extract transcripts/subtitles from YouTube videos using yt-dlp.
+author: tapestry
+tags:
+  - youtube
+  - transcripts
+  - video
+license: MIT

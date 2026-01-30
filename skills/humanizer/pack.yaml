@@ -1,0 +1,10 @@
+name: humanizer
+version: 2.1.1
+type: skill
+description: Remove signs of AI-generated writing from text. Based on Wikipedia's AI writing guide.
+author: blader
+tags:
+  - writing
+  - editing
+  - ai-detection
+license: MIT

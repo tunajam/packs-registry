@@ -1,0 +1,10 @@
+name: brainstorming
+version: 1.0.0
+type: skill
+description: Transform rough ideas into fully-formed designs through structured questioning and exploration.
+author: obra
+tags:
+  - design
+  - planning
+  - ideation
+license: MIT

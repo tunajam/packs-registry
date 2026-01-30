@@ -1,0 +1,10 @@
+name: test-driven-development
+version: 1.0.0
+type: skill
+description: TDD workflow for features and bugfixes. Write the test first, watch it fail.
+author: obra
+tags:
+  - testing
+  - tdd
+  - development
+license: MIT

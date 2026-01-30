@@ -1,0 +1,10 @@
+name: git-worktrees
+version: 1.0.0
+type: skill
+description: Work with isolated git worktrees for parallel feature development.
+author: obra
+tags:
+  - git
+  - worktrees
+  - development
+license: MIT

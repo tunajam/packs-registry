@@ -1,0 +1,10 @@
+name: mcp-builder
+version: 1.0.0
+type: skill
+description: Guide for creating high-quality MCP (Model Context Protocol) servers for LLM integrations.
+author: composio
+tags:
+  - mcp
+  - api
+  - development
+license: Apache-2.0
