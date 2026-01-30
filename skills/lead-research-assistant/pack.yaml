@@ -1,0 +1,11 @@
+name: lead-research-assistant
+version: 1.0.0
+type: skill
+description: Find and qualify leads for sales, partnerships, and business development
+author: composio
+tags:
+  - sales
+  - leads
+  - business
+  - research
+license: MIT

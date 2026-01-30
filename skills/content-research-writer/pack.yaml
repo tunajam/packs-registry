@@ -1,0 +1,11 @@
+name: content-research-writer
+version: 1.0.0
+type: skill
+description: Research, outline, and write high-quality content with citations
+author: composio
+tags:
+  - writing
+  - research
+  - content
+  - blog
+license: MIT

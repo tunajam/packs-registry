@@ -1,0 +1,11 @@
+name: nextjs
+version: 1.0.0
+type: context
+description: Modern patterns for Next.js 14+ with App Router and Server Components
+author: tunajam
+tags:
+  - nextjs
+  - react
+  - frontend
+  - framework
+license: MIT

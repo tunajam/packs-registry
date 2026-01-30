@@ -1,0 +1,11 @@
+name: tailored-resume-generator
+version: 1.0.0
+type: skill
+description: Generate tailored resumes optimized for specific job descriptions
+author: composio
+tags:
+  - resume
+  - jobs
+  - career
+  - ats
+license: MIT
