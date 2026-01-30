@@ -1,0 +1,10 @@
+name: commit-message
+version: 1.0.0
+type: skill
+description: Generate conventional commit messages from staged changes
+author: hunter
+tags:
+  - git
+  - commits
+  - conventional-commits
+license: MIT
