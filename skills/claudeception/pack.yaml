@@ -1,0 +1,10 @@
+name: claudeception
+version: 3.0.0
+type: skill
+description: Continuous learning system that extracts reusable knowledge from work sessions into skills.
+author: blader
+tags:
+  - meta
+  - learning
+  - skills
+license: MIT

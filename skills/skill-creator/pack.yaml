@@ -1,0 +1,10 @@
+name: skill-creator
+version: 1.0.0
+type: skill
+description: Guide for creating effective skills that extend Claude's capabilities.
+author: anthropic
+tags:
+  - meta
+  - skills
+  - development
+license: Apache-2.0

@@ -17,8 +17,8 @@ packs
 # Search
 packs find "commit message"
 
-# List all
-packs find
+# Install
+packs get commit-message
 ```
 
 ## Available Packs
@@ -30,11 +30,15 @@ packs find
 | [commit-message](./skills/commit-message) | Generate conventional commit messages | tunajam |
 | [pr-description](./skills/pr-description) | Write PR descriptions from branch diff | tunajam |
 | [humanizer](./skills/humanizer) | Remove AI patterns from writing | blader |
+| [claudeception](./skills/claudeception) | Extract learnings into reusable skills | blader |
 | [test-driven-development](./skills/test-driven-development) | TDD workflow for features and bugfixes | obra |
 | [brainstorming](./skills/brainstorming) | Transform ideas into designs | obra |
 | [git-worktrees](./skills/git-worktrees) | Work with isolated git worktrees | obra |
 | [mcp-builder](./skills/mcp-builder) | Build MCP servers for LLM integrations | composio |
 | [youtube-transcript](./skills/youtube-transcript) | Extract transcripts from YouTube videos | tapestry |
+| [skill-creator](./skills/skill-creator) | Guide for creating effective skills | anthropic |
+| [webapp-testing](./skills/webapp-testing) | Test web apps with Playwright | anthropic |
+| [web-artifacts-builder](./skills/web-artifacts-builder) | Build complex React/Tailwind artifacts | anthropic |
 
 ## Contributing
 

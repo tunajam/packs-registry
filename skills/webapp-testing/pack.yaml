@@ -1,0 +1,10 @@
+name: webapp-testing
+version: 1.0.0
+type: skill
+description: Test local web applications using Playwright for UI verification and debugging.
+author: anthropic
+tags:
+  - testing
+  - playwright
+  - web
+license: Apache-2.0

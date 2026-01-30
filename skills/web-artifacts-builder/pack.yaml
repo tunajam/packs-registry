@@ -1,0 +1,11 @@
+name: web-artifacts-builder
+version: 1.0.0
+type: skill
+description: Build complex HTML artifacts with React, Tailwind, and shadcn/ui for Claude.ai.
+author: anthropic
+tags:
+  - artifacts
+  - react
+  - tailwind
+  - frontend
+license: Apache-2.0
