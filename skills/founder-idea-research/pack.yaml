@@ -1,0 +1,12 @@
+name: founder-idea-research
+version: 1.0.0
+type: skill
+description: Multi-source toolkit for finding validated solo founder business ideas
+author: hunter
+tags:
+  - business
+  - research
+  - ideas
+  - reddit
+  - validation
+license: MIT

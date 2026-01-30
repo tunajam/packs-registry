@@ -1,0 +1,11 @@
+name: overnight-build
+version: 1.0.0
+type: skill
+description: Autonomous overnight build challenge - research and ship by morning
+author: hunter
+tags:
+  - productivity
+  - building
+  - autonomous
+  - shipping
+license: MIT

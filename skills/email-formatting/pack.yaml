@@ -1,0 +1,11 @@
+name: email-formatting
+version: 1.0.0
+type: skill
+description: Format emails with minimal styling and human voice using MML
+author: hunter
+tags:
+  - email
+  - writing
+  - mml
+  - himalaya
+license: MIT

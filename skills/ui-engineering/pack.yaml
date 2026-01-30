@@ -1,0 +1,12 @@
+name: ui-engineering
+version: 1.0.0
+type: skill
+description: UI patterns for layout stability, loading states, and accessibility
+author: hunter
+tags:
+  - ui
+  - frontend
+  - react
+  - tailwind
+  - accessibility
+license: MIT
