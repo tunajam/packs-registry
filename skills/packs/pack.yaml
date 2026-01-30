@@ -1,0 +1,11 @@
+name: packs
+version: 1.0.0
+type: skill
+description: Use the packs CLI to discover, install, and share AI agent skills.
+author: tunajam
+tags:
+  - cli
+  - tools
+  - meta
+license: MIT
+source_url: https://github.com/tunajam/packs-registry
