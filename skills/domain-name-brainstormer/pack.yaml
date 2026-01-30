@@ -1,0 +1,11 @@
+name: domain-name-brainstormer
+version: 1.0.0
+type: skill
+description: Generate creative domain names and check availability across TLDs
+author: composio
+tags:
+  - domains
+  - naming
+  - branding
+  - startup
+license: MIT

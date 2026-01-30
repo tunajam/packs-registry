@@ -1,0 +1,12 @@
+name: frontend-design
+version: 1.0.0
+type: skill
+description: Create distinctive, production-grade frontend interfaces avoiding generic AI aesthetics
+author: anthropic
+tags:
+  - frontend
+  - design
+  - ui
+  - react
+  - css
+license: Anthropic

@@ -1,0 +1,11 @@
+name: doc-coauthoring
+version: 1.0.0
+type: skill
+description: Structured workflow for co-authoring documentation, proposals, and specs
+author: anthropic
+tags:
+  - documentation
+  - writing
+  - proposals
+  - specs
+license: Anthropic

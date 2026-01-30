@@ -1,0 +1,11 @@
+name: changelog-generator
+version: 1.0.0
+type: skill
+description: Transform git commits into user-friendly changelogs automatically
+author: composio
+tags:
+  - git
+  - changelog
+  - releases
+  - documentation
+license: MIT

@@ -1,0 +1,11 @@
+name: algorithmic-art
+version: 1.0.0
+type: skill
+description: Create generative art using p5.js with seeded randomness and interactive exploration
+author: anthropic
+tags:
+  - art
+  - generative
+  - p5js
+  - creative
+license: Anthropic

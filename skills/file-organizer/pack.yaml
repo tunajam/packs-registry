@@ -1,0 +1,11 @@
+name: file-organizer
+version: 1.0.0
+type: skill
+description: Intelligently organize files and folders, find duplicates, suggest better structures
+author: composio
+tags:
+  - organization
+  - files
+  - productivity
+  - cleanup
+license: MIT
