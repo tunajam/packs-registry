@@ -1,0 +1,13 @@
+name: react-native-deep-linking
+version: 1.0.0
+type: skill
+description: Deep linking and universal links for React Native apps
+author: react-native-community
+tags:
+  - react-native
+  - deep-linking
+  - universal-links
+  - mobile
+  - navigation
+license: MIT
+source_url: https://reactnative.dev/docs/linking

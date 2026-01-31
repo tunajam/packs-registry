@@ -1,0 +1,12 @@
+name: api-design-patterns
+version: 1.0.0
+type: context
+description: REST API design patterns, error handling, and best practices
+author: tunajam
+tags:
+  - api
+  - rest
+  - design
+  - backend
+license: MIT
+source_url: https://github.com/microsoft/api-guidelines

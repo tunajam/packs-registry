@@ -1,0 +1,12 @@
+name: jest-config
+version: 1.0.0
+type: context
+description: Jest testing configuration for TypeScript and React projects
+author: tunajam
+tags:
+  - jest
+  - testing
+  - typescript
+  - react
+license: MIT
+source_url: https://jestjs.io/docs/configuration

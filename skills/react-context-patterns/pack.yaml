@@ -1,0 +1,12 @@
+name: react-context-patterns
+version: 1.0.0
+type: context
+description: React Context API patterns - providers, selectors, performance optimization
+author: tunajam
+tags:
+  - react
+  - context
+  - state-management
+  - patterns
+license: MIT
+source_url: https://react.dev/learn/passing-data-deeply-with-context

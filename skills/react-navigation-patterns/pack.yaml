@@ -1,0 +1,13 @@
+name: react-navigation-patterns
+version: 1.0.0
+type: skill
+description: React Navigation patterns for stack, tab, drawer, and deep linking
+author: react-navigation
+tags:
+  - react-native
+  - navigation
+  - mobile
+  - typescript
+  - deep-linking
+license: MIT
+source_url: https://reactnavigation.org/docs/getting-started

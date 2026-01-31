@@ -1,0 +1,12 @@
+name: vitest-testing
+version: 1.0.0
+type: context
+description: Vitest configuration, patterns, and testing best practices
+author: tunajam
+tags:
+  - vitest
+  - testing
+  - unit-tests
+  - javascript
+license: MIT
+source_url: https://vitest.dev/guide

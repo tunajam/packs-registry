@@ -1,0 +1,13 @@
+name: swr-fetching
+version: 1.0.0
+type: context
+description: SWR data fetching - stale-while-revalidate, revalidation, mutations
+author: vercel
+tags:
+  - react
+  - data-fetching
+  - swr
+  - cache
+  - vercel
+license: MIT
+source_url: https://swr.vercel.app

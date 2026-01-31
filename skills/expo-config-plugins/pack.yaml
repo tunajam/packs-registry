@@ -1,0 +1,13 @@
+name: expo-config-plugins
+version: 1.0.0
+type: skill
+description: Custom Expo config plugins for native configuration
+author: expo
+tags:
+  - expo
+  - config-plugins
+  - native
+  - mobile
+  - customization
+license: MIT
+source_url: https://docs.expo.dev/config-plugins/introduction/

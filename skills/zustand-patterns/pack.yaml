@@ -1,0 +1,12 @@
+name: zustand-patterns
+version: 1.0.0
+type: context
+description: Zustand state management patterns, slices, middleware, and best practices
+author: pmndrs
+tags:
+  - react
+  - state-management
+  - zustand
+  - hooks
+license: MIT
+source_url: https://zustand.docs.pmnd.rs

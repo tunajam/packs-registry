@@ -1,0 +1,13 @@
+name: react-native-reanimated
+version: 1.0.0
+type: skill
+description: Smooth animations with React Native Reanimated library
+author: software-mansion
+tags:
+  - react-native
+  - animation
+  - reanimated
+  - mobile
+  - performance
+license: MIT
+source_url: https://docs.swmansion.com/react-native-reanimated/

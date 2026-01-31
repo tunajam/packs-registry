@@ -1,0 +1,13 @@
+name: react-native-security
+version: 1.0.0
+type: skill
+description: Mobile security for React Native - secure storage, SSL pinning, obfuscation
+author: react-native-community
+tags:
+  - react-native
+  - security
+  - mobile
+  - encryption
+  - ssl-pinning
+license: MIT
+source_url: https://reactnative.dev/docs/security

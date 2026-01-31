@@ -1,0 +1,12 @@
+name: turborepo-monorepo
+version: 1.0.0
+type: context
+description: Turborepo monorepo setup, configuration, and workspace patterns
+author: tunajam
+tags:
+  - turborepo
+  - monorepo
+  - pnpm
+  - workspace
+license: MIT
+source_url: https://turbo.build/repo/docs

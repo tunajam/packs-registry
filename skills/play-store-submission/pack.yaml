@@ -1,0 +1,13 @@
+name: play-store-submission
+version: 1.0.0
+type: skill
+description: Google Play Store submission guidelines and release management
+author: google
+tags:
+  - android
+  - play-store
+  - mobile
+  - deployment
+  - google
+license: MIT
+source_url: https://play.google.com/console/about/guides/

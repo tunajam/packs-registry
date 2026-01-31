@@ -1,0 +1,12 @@
+name: github-actions
+version: 1.0.0
+type: context
+description: GitHub Actions workflow patterns, CI/CD best practices, and common configurations
+author: tunajam
+tags:
+  - github
+  - ci-cd
+  - automation
+  - devops
+license: MIT
+source_url: https://docs.github.com/en/actions

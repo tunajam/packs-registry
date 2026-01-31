@@ -1,0 +1,12 @@
+name: zod-validation
+version: 1.0.0
+type: context
+description: Zod schema validation patterns, transformations, and TypeScript integration
+author: tunajam
+tags:
+  - zod
+  - validation
+  - typescript
+  - schema
+license: MIT
+source_url: https://zod.dev

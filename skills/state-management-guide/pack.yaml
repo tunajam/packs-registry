@@ -1,0 +1,12 @@
+name: state-management-guide
+version: 1.0.0
+type: context
+description: When to use which state management - context vs global state, decision guide
+author: tunajam
+tags:
+  - react
+  - state-management
+  - patterns
+  - architecture
+license: MIT
+source_url: https://github.com/tunajam/packs-registry

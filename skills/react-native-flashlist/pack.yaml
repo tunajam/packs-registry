@@ -1,0 +1,13 @@
+name: react-native-flashlist
+version: 1.0.0
+type: skill
+description: High-performance lists with FlashList for React Native
+author: shopify
+tags:
+  - react-native
+  - flashlist
+  - performance
+  - lists
+  - mobile
+license: MIT
+source_url: https://shopify.github.io/flash-list/

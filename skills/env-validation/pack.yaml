@@ -1,0 +1,12 @@
+name: env-validation
+version: 1.0.0
+type: context
+description: Environment variable validation with Zod, t3-env, and best practices
+author: tunajam
+tags:
+  - env
+  - validation
+  - zod
+  - config
+license: MIT
+source_url: https://env.t3.gg

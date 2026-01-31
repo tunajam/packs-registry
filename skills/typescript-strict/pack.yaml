@@ -1,0 +1,12 @@
+name: typescript-strict
+version: 1.0.0
+type: context
+description: TypeScript strict configuration, type patterns, and best practices
+author: tunajam
+tags:
+  - typescript
+  - types
+  - config
+  - tsconfig
+license: MIT
+source_url: https://www.typescriptlang.org/tsconfig

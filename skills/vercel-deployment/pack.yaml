@@ -1,0 +1,12 @@
+name: vercel-deployment
+version: 1.0.0
+type: context
+description: Vercel deployment configuration, edge functions, and optimization patterns
+author: tunajam
+tags:
+  - vercel
+  - deployment
+  - serverless
+  - edge
+license: MIT
+source_url: https://vercel.com/docs

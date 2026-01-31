@@ -1,0 +1,14 @@
+name: react-native-forms
+version: 1.0.0
+type: skill
+description: Form handling patterns for React Native with react-hook-form and Zod
+author: react-hook-form
+tags:
+  - react-native
+  - forms
+  - validation
+  - react-hook-form
+  - zod
+  - mobile
+license: MIT
+source_url: https://react-hook-form.com/

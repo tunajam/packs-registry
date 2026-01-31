@@ -1,0 +1,13 @@
+name: tanstack-query
+version: 1.0.0
+type: context
+description: TanStack Query (React Query) - data fetching, caching, mutations, optimistic updates
+author: tanstack
+tags:
+  - react
+  - data-fetching
+  - cache
+  - tanstack
+  - server-state
+license: MIT
+source_url: https://tanstack.com/query

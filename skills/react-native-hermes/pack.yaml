@@ -1,0 +1,13 @@
+name: react-native-hermes
+version: 1.0.0
+type: context
+description: Hermes JavaScript engine optimization for React Native
+author: meta
+tags:
+  - react-native
+  - hermes
+  - performance
+  - mobile
+  - optimization
+license: MIT
+source_url: https://reactnative.dev/docs/hermes

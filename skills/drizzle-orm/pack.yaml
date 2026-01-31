@@ -1,0 +1,12 @@
+name: drizzle-orm
+version: 1.0.0
+type: context
+description: Drizzle ORM schema patterns, queries, and SQL-like TypeScript patterns
+author: tunajam
+tags:
+  - drizzle
+  - database
+  - orm
+  - typescript
+license: MIT
+source_url: https://orm.drizzle.team/docs/overview

@@ -1,0 +1,13 @@
+name: xstate-machines
+version: 1.0.0
+type: context
+description: XState v5 state machines, actors, statecharts, and visual debugging
+author: statelyai
+tags:
+  - react
+  - state-management
+  - xstate
+  - state-machines
+  - actors
+license: MIT
+source_url: https://stately.ai/docs

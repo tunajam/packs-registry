@@ -1,0 +1,12 @@
+name: code-review-prompt
+version: 1.0.0
+type: prompt
+description: Prompt for conducting thorough code reviews with actionable feedback
+author: tunajam
+tags:
+  - code-review
+  - prompt
+  - quality
+  - feedback
+license: MIT
+source_url: https://google.github.io/eng-practices/review/

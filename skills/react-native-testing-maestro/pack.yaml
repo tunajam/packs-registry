@@ -1,0 +1,14 @@
+name: react-native-testing-maestro
+version: 1.0.0
+type: skill
+description: E2E mobile testing with Maestro for React Native apps
+author: mobile-dev-inc
+tags:
+  - react-native
+  - testing
+  - e2e
+  - maestro
+  - mobile
+  - automation
+license: Apache-2.0
+source_url: https://maestro.mobile.dev

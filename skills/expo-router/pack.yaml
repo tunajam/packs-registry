@@ -1,0 +1,13 @@
+name: expo-router
+version: 1.0.0
+type: skill
+description: File-based routing for Expo apps with Expo Router
+author: expo
+tags:
+  - expo
+  - react-native
+  - routing
+  - navigation
+  - mobile
+license: MIT
+source_url: https://docs.expo.dev/router/introduction/

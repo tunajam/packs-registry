@@ -1,0 +1,12 @@
+name: tanstack-router
+version: 1.0.0
+type: context
+description: TanStack Router - type-safe routing, search params, loaders, preloading
+author: tanstack
+tags:
+  - react
+  - routing
+  - tanstack
+  - type-safe
+license: MIT
+source_url: https://tanstack.com/router

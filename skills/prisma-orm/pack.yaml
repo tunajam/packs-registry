@@ -1,0 +1,12 @@
+name: prisma-orm
+version: 1.0.0
+type: context
+description: Prisma ORM schema patterns, queries, migrations, and best practices
+author: tunajam
+tags:
+  - prisma
+  - database
+  - orm
+  - typescript
+license: MIT
+source_url: https://www.prisma.io/docs

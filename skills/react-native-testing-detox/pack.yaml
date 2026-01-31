@@ -1,0 +1,14 @@
+name: react-native-testing-detox
+version: 1.0.0
+type: skill
+description: E2E testing for React Native with Detox by Wix
+author: wix
+tags:
+  - react-native
+  - testing
+  - e2e
+  - detox
+  - mobile
+  - automation
+license: MIT
+source_url: https://wix.github.io/Detox

@@ -1,0 +1,12 @@
+name: docker-compose
+version: 1.0.0
+type: context
+description: Docker Compose patterns for local development and multi-container apps
+author: tunajam
+tags:
+  - docker
+  - compose
+  - containers
+  - devops
+license: MIT
+source_url: https://docs.docker.com/compose

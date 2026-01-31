@@ -1,0 +1,12 @@
+name: eslint-config
+version: 1.0.0
+type: context
+description: ESLint flat config patterns, plugins, and TypeScript/React setup
+author: tunajam
+tags:
+  - eslint
+  - linting
+  - typescript
+  - code-quality
+license: MIT
+source_url: https://eslint.org/docs/latest

@@ -1,0 +1,13 @@
+name: react-native-zustand
+version: 1.0.0
+type: skill
+description: State management with Zustand for React Native
+author: pmndrs
+tags:
+  - react-native
+  - state-management
+  - zustand
+  - mobile
+  - hooks
+license: MIT
+source_url: https://github.com/pmndrs/zustand

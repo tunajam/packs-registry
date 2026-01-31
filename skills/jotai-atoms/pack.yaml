@@ -1,0 +1,12 @@
+name: jotai-atoms
+version: 1.0.0
+type: context
+description: Jotai atomic state management - atoms, derived state, async atoms, persistence
+author: pmndrs
+tags:
+  - react
+  - state-management
+  - jotai
+  - atomic
+license: MIT
+source_url: https://jotai.org

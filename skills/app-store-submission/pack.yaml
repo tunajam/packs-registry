@@ -1,0 +1,13 @@
+name: app-store-submission
+version: 1.0.0
+type: skill
+description: iOS App Store submission guidelines, metadata, and review process
+author: apple
+tags:
+  - ios
+  - app-store
+  - mobile
+  - deployment
+  - apple
+license: MIT
+source_url: https://developer.apple.com/app-store/review/guidelines/

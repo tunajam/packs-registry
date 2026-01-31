@@ -1,0 +1,12 @@
+name: vite-config
+version: 1.0.0
+type: context
+description: Vite configuration patterns, plugins, and optimization strategies
+author: tunajam
+tags:
+  - vite
+  - bundler
+  - build
+  - frontend
+license: MIT
+source_url: https://vitejs.dev/config

@@ -1,0 +1,13 @@
+name: nativewind-styling
+version: 1.0.0
+type: skill
+description: Tailwind CSS styling for React Native with NativeWind
+author: nativewind
+tags:
+  - react-native
+  - styling
+  - tailwind
+  - nativewind
+  - mobile
+license: MIT
+source_url: https://www.nativewind.dev/

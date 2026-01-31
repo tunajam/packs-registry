@@ -1,0 +1,13 @@
+name: react-native-gesture-handler
+version: 1.0.0
+type: skill
+description: Touch and gesture handling with React Native Gesture Handler
+author: software-mansion
+tags:
+  - react-native
+  - gestures
+  - touch
+  - mobile
+  - interaction
+license: MIT
+source_url: https://docs.swmansion.com/react-native-gesture-handler/

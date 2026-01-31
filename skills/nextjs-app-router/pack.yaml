@@ -1,0 +1,12 @@
+name: nextjs-app-router
+version: 1.0.0
+type: context
+description: Next.js App Router patterns, server components, and best practices
+author: tunajam
+tags:
+  - nextjs
+  - react
+  - server-components
+  - app-router
+license: MIT
+source_url: https://nextjs.org/docs/app

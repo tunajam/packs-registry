@@ -1,0 +1,14 @@
+name: eas-build
+version: 1.0.0
+type: skill
+description: EAS Build workflows for Expo app builds and submissions
+author: expo
+tags:
+  - expo
+  - eas
+  - build
+  - mobile
+  - ci-cd
+  - deployment
+license: MIT
+source_url: https://docs.expo.dev/build/introduction/

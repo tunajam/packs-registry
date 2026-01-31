@@ -1,0 +1,13 @@
+name: pubsub-patterns
+version: 1.0.0
+type: context
+description: Pub/Sub patterns in JavaScript - EventEmitter, EventTarget, message buses, observer
+author: tunajam
+tags:
+  - javascript
+  - patterns
+  - events
+  - pubsub
+  - observer
+license: MIT
+source_url: https://github.com/tunajam/packs-registry

@@ -1,0 +1,12 @@
+name: github-templates
+version: 1.0.0
+type: context
+description: GitHub repository templates - PR templates, issue templates, and .github configs
+author: tunajam
+tags:
+  - github
+  - templates
+  - pull-request
+  - issues
+license: MIT
+source_url: https://docs.github.com/en/communities

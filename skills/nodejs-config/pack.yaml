@@ -1,0 +1,12 @@
+name: nodejs-config
+version: 1.0.0
+type: context
+description: Node.js project configuration - package.json, scripts, and tooling setup
+author: tunajam
+tags:
+  - nodejs
+  - npm
+  - config
+  - scripts
+license: MIT
+source_url: https://docs.npmjs.com/cli/configuring-npm/package-json

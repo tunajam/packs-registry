@@ -1,0 +1,12 @@
+name: tailwind-css
+version: 1.0.0
+type: context
+description: Tailwind CSS v4 configuration, theming, and utility patterns
+author: tunajam
+tags:
+  - css
+  - tailwind
+  - styling
+  - design-system
+license: MIT
+source_url: https://tailwindcss.com/docs

@@ -1,0 +1,12 @@
+name: react-router-v7
+version: 1.0.0
+type: context
+description: React Router v7 - loaders, actions, nested routes, data loading patterns
+author: remix-run
+tags:
+  - react
+  - routing
+  - react-router
+  - data-loading
+license: MIT
+source_url: https://reactrouter.com

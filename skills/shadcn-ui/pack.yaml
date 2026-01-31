@@ -1,0 +1,13 @@
+name: shadcn-ui
+version: 1.0.0
+type: context
+description: shadcn/ui component patterns, theming, and customization best practices
+author: tunajam
+tags:
+  - react
+  - ui
+  - components
+  - tailwind
+  - radix
+license: MIT
+source_url: https://ui.shadcn.com/docs

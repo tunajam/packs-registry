@@ -1,0 +1,14 @@
+name: expo-push-notifications
+version: 1.0.0
+type: skill
+description: Push notifications setup with Expo, FCM, and APNs
+author: expo
+tags:
+  - expo
+  - react-native
+  - push-notifications
+  - fcm
+  - apns
+  - mobile
+license: MIT
+source_url: https://docs.expo.dev/push-notifications/overview/

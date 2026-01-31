@@ -1,0 +1,13 @@
+name: react-native-debugging
+version: 1.0.0
+type: skill
+description: Debugging techniques for React Native - Flipper, Chrome DevTools, and native debugging
+author: react-native-community
+tags:
+  - react-native
+  - debugging
+  - flipper
+  - devtools
+  - mobile
+license: MIT
+source_url: https://reactnative.dev/docs/debugging

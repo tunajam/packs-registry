@@ -1,0 +1,14 @@
+name: react-native-new-architecture
+version: 1.0.0
+type: context
+description: React Native New Architecture - Turbo Modules, Fabric, JSI, and Codegen
+author: react-native
+tags:
+  - react-native
+  - new-architecture
+  - turbo-modules
+  - fabric
+  - jsi
+  - performance
+license: MIT
+source_url: https://reactnative.dev/docs/new-architecture-intro

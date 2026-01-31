@@ -1,0 +1,12 @@
+name: valtio-proxy
+version: 1.0.0
+type: context
+description: Valtio proxy-based state management - snapshots, subscriptions, mutations
+author: pmndrs
+tags:
+  - react
+  - state-management
+  - valtio
+  - proxy
+license: MIT
+source_url: https://valtio.dev
