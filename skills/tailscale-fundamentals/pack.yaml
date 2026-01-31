@@ -1,0 +1,13 @@
+name: tailscale-fundamentals
+version: 1.0.0
+type: context
+description: Core Tailscale concepts - tailnets, MagicDNS, device management, and basic setup
+author: tunajam
+tags:
+  - tailscale
+  - networking
+  - vpn
+  - wireguard
+  - zero-trust
+license: MIT
+source_url: https://tailscale.com/kb

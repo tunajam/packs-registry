@@ -1,0 +1,13 @@
+name: tailscale-docker
+version: 1.0.0
+type: context
+description: Tailscale Docker integration - sidecar patterns, container networking, Compose
+author: tunajam
+tags:
+  - tailscale
+  - docker
+  - containers
+  - networking
+  - sidecar
+license: MIT
+source_url: https://tailscale.com/kb/1282/docker

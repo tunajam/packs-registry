@@ -1,0 +1,13 @@
+name: tailscale-funnel-serve
+version: 1.0.0
+type: context
+description: Tailscale Serve and Funnel - expose services to tailnet or public internet
+author: tunajam
+tags:
+  - tailscale
+  - networking
+  - https
+  - reverse-proxy
+  - ingress
+license: MIT
+source_url: https://tailscale.com/kb/1242/tailscale-serve

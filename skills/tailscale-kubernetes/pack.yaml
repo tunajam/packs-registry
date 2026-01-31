@@ -1,0 +1,13 @@
+name: tailscale-kubernetes
+version: 1.0.0
+type: context
+description: Tailscale Kubernetes operator, ingress, sidecars, and cluster networking
+author: tunajam
+tags:
+  - tailscale
+  - kubernetes
+  - k8s
+  - networking
+  - operator
+license: MIT
+source_url: https://tailscale.com/kb/1185/kubernetes

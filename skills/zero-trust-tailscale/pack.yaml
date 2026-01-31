@@ -1,0 +1,13 @@
+name: zero-trust-tailscale
+version: 1.0.0
+type: context
+description: Zero Trust networking patterns and best practices with Tailscale
+author: tunajam
+tags:
+  - tailscale
+  - zero-trust
+  - security
+  - networking
+  - ztna
+license: MIT
+source_url: https://tailscale.com/kb/1123/zero-trust

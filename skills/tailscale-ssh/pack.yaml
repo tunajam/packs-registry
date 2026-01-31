@@ -1,0 +1,13 @@
+name: tailscale-ssh
+version: 1.0.0
+type: context
+description: Tailscale SSH - keyless SSH authentication and connection management
+author: tunajam
+tags:
+  - tailscale
+  - ssh
+  - authentication
+  - security
+  - zero-trust
+license: MIT
+source_url: https://tailscale.com/kb/1193/tailscale-ssh

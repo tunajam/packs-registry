@@ -1,0 +1,13 @@
+name: tailscale-subnet-routing
+version: 1.0.0
+type: context
+description: Subnet routers, exit nodes, and network routing patterns in Tailscale
+author: tunajam
+tags:
+  - tailscale
+  - networking
+  - routing
+  - subnet
+  - exit-node
+license: MIT
+source_url: https://tailscale.com/kb/1019/subnets

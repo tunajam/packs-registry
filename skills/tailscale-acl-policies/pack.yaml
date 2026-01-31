@@ -1,0 +1,13 @@
+name: tailscale-acl-policies
+version: 1.0.0
+type: context
+description: Tailscale ACL policy patterns - groups, tags, autoApprovers, and access control
+author: tunajam
+tags:
+  - tailscale
+  - acl
+  - networking
+  - security
+  - zero-trust
+license: MIT
+source_url: https://tailscale.com/kb/1018/acls
