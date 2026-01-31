@@ -1,0 +1,13 @@
+name: adguard-dns
+version: 1.0.0
+type: skill
+description: AdGuard Home DNS filtering - ad blocking, parental controls, encrypted DNS
+author: tunajam
+tags:
+  - homelab
+  - adguard
+  - dns
+  - adblock
+  - privacy
+license: MIT
+source_url: https://adguard.com/en/adguard-home/overview.html

@@ -1,0 +1,13 @@
+name: vlan-firewall
+version: 1.0.0
+type: context
+description: VLAN and firewall quick reference - OPNsense, pfSense rules and patterns
+author: tunajam
+tags:
+  - homelab
+  - networking
+  - vlan
+  - firewall
+  - opnsense
+license: MIT
+source_url: https://docs.opnsense.org/

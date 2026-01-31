@@ -1,0 +1,13 @@
+name: unraid-essentials
+version: 1.0.0
+type: skill
+description: Unraid essentials - array management, Docker, VMs, plugins, shares
+author: tunajam
+tags:
+  - homelab
+  - unraid
+  - nas
+  - docker
+  - virtualization
+license: MIT
+source_url: https://docs.unraid.net/

@@ -1,0 +1,13 @@
+name: caddy-reverse-proxy
+version: 1.0.0
+type: skill
+description: Caddy reverse proxy for homelab - automatic HTTPS, Caddyfile patterns
+author: tunajam
+tags:
+  - homelab
+  - reverse-proxy
+  - caddy
+  - ssl
+  - self-hosted
+license: MIT
+source_url: https://caddyserver.com/docs/

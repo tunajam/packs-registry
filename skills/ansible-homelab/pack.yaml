@@ -1,0 +1,13 @@
+name: ansible-homelab
+version: 1.0.0
+type: skill
+description: Ansible for homelab automation - playbooks, roles, inventory patterns
+author: tunajam
+tags:
+  - homelab
+  - ansible
+  - automation
+  - infrastructure
+  - devops
+license: MIT
+source_url: https://docs.ansible.com/

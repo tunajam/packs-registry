@@ -1,0 +1,13 @@
+name: pihole-dns
+version: 1.0.0
+type: skill
+description: Pi-hole network-wide ad blocking - DNS filtering, custom lists, DHCP
+author: tunajam
+tags:
+  - homelab
+  - pihole
+  - dns
+  - adblock
+  - networking
+license: MIT
+source_url: https://pi-hole.net/

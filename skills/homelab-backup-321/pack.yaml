@@ -1,0 +1,13 @@
+name: homelab-backup-321
+version: 1.0.0
+type: skill
+description: Backup strategies - 3-2-1 rule, restic, borgbackup, rclone patterns
+author: tunajam
+tags:
+  - homelab
+  - backup
+  - restic
+  - borgbackup
+  - disaster-recovery
+license: MIT
+source_url: https://restic.net/

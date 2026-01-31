@@ -1,0 +1,13 @@
+name: grafana-prometheus
+version: 1.0.0
+type: skill
+description: Monitoring stack - Prometheus metrics, Grafana dashboards, alerting
+author: tunajam
+tags:
+  - homelab
+  - monitoring
+  - grafana
+  - prometheus
+  - observability
+license: MIT
+source_url: https://grafana.com/

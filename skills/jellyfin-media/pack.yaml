@@ -1,0 +1,13 @@
+name: jellyfin-media
+version: 1.0.0
+type: skill
+description: Jellyfin media server - setup, transcoding, libraries, hardware acceleration
+author: tunajam
+tags:
+  - homelab
+  - jellyfin
+  - media-server
+  - streaming
+  - self-hosted
+license: MIT
+source_url: https://jellyfin.org/docs/

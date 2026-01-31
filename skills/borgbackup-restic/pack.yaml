@@ -1,0 +1,13 @@
+name: borgbackup-restic
+version: 1.0.0
+type: context
+description: BorgBackup and Restic quick reference - deduplication backup tools
+author: tunajam
+tags:
+  - homelab
+  - backup
+  - borgbackup
+  - restic
+  - deduplication
+license: MIT
+source_url: https://borgbackup.readthedocs.io/

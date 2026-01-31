@@ -1,0 +1,13 @@
+name: authelia-sso
+version: 1.0.0
+type: skill
+description: Authelia SSO and 2FA - single sign-on for homelab services
+author: tunajam
+tags:
+  - homelab
+  - authelia
+  - sso
+  - security
+  - authentication
+license: MIT
+source_url: https://www.authelia.com/

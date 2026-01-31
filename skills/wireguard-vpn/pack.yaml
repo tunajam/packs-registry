@@ -1,0 +1,13 @@
+name: wireguard-vpn
+version: 1.0.0
+type: skill
+description: WireGuard VPN setup - server configuration, client configs, Docker deployment
+author: tunajam
+tags:
+  - homelab
+  - wireguard
+  - vpn
+  - networking
+  - security
+license: MIT
+source_url: https://www.wireguard.com/

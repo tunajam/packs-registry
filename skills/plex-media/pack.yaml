@@ -1,0 +1,13 @@
+name: plex-media
+version: 1.0.0
+type: skill
+description: Plex media server - setup, transcoding, libraries, remote access
+author: tunajam
+tags:
+  - homelab
+  - plex
+  - media-server
+  - streaming
+  - self-hosted
+license: MIT
+source_url: https://support.plex.tv/

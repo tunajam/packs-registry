@@ -1,0 +1,13 @@
+name: docker-compose-patterns
+version: 1.0.0
+type: skill
+description: Docker Compose patterns for homelab services - networking, volumes, multi-container setups
+author: tunajam
+tags:
+  - homelab
+  - docker
+  - compose
+  - self-hosted
+  - containers
+license: MIT
+source_url: https://docs.docker.com/compose/

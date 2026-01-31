@@ -1,0 +1,13 @@
+name: home-assistant-automations
+version: 1.0.0
+type: skill
+description: Home Assistant automation patterns - triggers, conditions, actions, YAML configs
+author: tunajam
+tags:
+  - homelab
+  - home-assistant
+  - automation
+  - smart-home
+  - iot
+license: MIT
+source_url: https://www.home-assistant.io/docs/automation/

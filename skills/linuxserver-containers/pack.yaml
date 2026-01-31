@@ -1,0 +1,12 @@
+name: linuxserver-containers
+version: 1.0.0
+type: skill
+description: LinuxServer.io container patterns - PUID/PGID, mods, customization
+author: tunajam
+tags:
+  - homelab
+  - docker
+  - linuxserver
+  - self-hosted
+license: MIT
+source_url: https://docs.linuxserver.io/

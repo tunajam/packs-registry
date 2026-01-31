@@ -1,0 +1,13 @@
+name: nginx-proxy-manager
+version: 1.0.0
+type: skill
+description: Nginx Proxy Manager - GUI reverse proxy with SSL management
+author: tunajam
+tags:
+  - homelab
+  - nginx
+  - reverse-proxy
+  - ssl
+  - self-hosted
+license: MIT
+source_url: https://nginxproxymanager.com/

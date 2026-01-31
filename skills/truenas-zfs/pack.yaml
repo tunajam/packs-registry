@@ -1,0 +1,13 @@
+name: truenas-zfs
+version: 1.0.0
+type: skill
+description: TrueNAS and ZFS storage - pools, snapshots, replication, SMB/NFS shares
+author: tunajam
+tags:
+  - homelab
+  - truenas
+  - zfs
+  - storage
+  - nas
+license: MIT
+source_url: https://www.truenas.com/docs/

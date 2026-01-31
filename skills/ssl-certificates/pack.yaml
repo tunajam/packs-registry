@@ -1,0 +1,13 @@
+name: ssl-certificates
+version: 1.0.0
+type: skill
+description: SSL/TLS certificates - Let's Encrypt, acme.sh, wildcard certs, DNS challenge
+author: tunajam
+tags:
+  - homelab
+  - ssl
+  - letsencrypt
+  - security
+  - certificates
+license: MIT
+source_url: https://letsencrypt.org/docs/

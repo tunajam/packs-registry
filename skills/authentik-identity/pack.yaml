@@ -1,0 +1,13 @@
+name: authentik-identity
+version: 1.0.0
+type: skill
+description: Authentik identity provider - SSO, OIDC, SAML, LDAP for homelab
+author: tunajam
+tags:
+  - homelab
+  - authentik
+  - sso
+  - identity
+  - oauth
+license: MIT
+source_url: https://goauthentik.io/docs/

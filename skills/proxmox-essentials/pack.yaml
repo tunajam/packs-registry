@@ -1,0 +1,13 @@
+name: proxmox-essentials
+version: 1.0.0
+type: skill
+description: Proxmox VE essentials - VM management, LXC containers, clustering, backup
+author: tunajam
+tags:
+  - homelab
+  - proxmox
+  - virtualization
+  - lxc
+  - vm
+license: MIT
+source_url: https://pve.proxmox.com/wiki/Main_Page

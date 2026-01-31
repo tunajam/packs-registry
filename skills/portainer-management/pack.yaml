@@ -1,0 +1,13 @@
+name: portainer-management
+version: 1.0.0
+type: skill
+description: Portainer container management - GUI for Docker, stacks, templates
+author: tunajam
+tags:
+  - homelab
+  - portainer
+  - docker
+  - container-management
+  - gui
+license: MIT
+source_url: https://docs.portainer.io/

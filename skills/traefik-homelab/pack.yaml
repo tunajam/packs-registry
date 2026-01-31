@@ -1,0 +1,13 @@
+name: traefik-homelab
+version: 1.0.0
+type: skill
+description: Traefik reverse proxy for homelab - Docker labels, middleware, Let's Encrypt
+author: tunajam
+tags:
+  - homelab
+  - reverse-proxy
+  - traefik
+  - docker
+  - ssl
+license: MIT
+source_url: https://doc.traefik.io/traefik/

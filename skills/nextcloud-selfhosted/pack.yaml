@@ -1,0 +1,13 @@
+name: nextcloud-selfhosted
+version: 1.0.0
+type: skill
+description: Nextcloud self-hosted cloud - setup, apps, optimization, maintenance
+author: tunajam
+tags:
+  - homelab
+  - nextcloud
+  - cloud
+  - file-sync
+  - self-hosted
+license: MIT
+source_url: https://docs.nextcloud.com/

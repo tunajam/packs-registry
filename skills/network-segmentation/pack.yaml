@@ -1,0 +1,13 @@
+name: network-segmentation
+version: 1.0.0
+type: skill
+description: Network segmentation - VLANs, firewall rules, IoT isolation patterns
+author: tunajam
+tags:
+  - homelab
+  - networking
+  - vlan
+  - firewall
+  - security
+license: MIT
+source_url: https://www.opnsense.org/
