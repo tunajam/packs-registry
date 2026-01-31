@@ -1,0 +1,11 @@
+name: docs-that-dont-suck
+version: 1.0.0
+type: skill
+description: Write documentation humans actually read
+author: tunajam
+tags:
+  - documentation
+  - writing
+  - communication
+license: MIT
+source_url: https://github.com/tunajam/packs-registry

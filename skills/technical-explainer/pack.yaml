@@ -1,0 +1,11 @@
+name: technical-explainer
+version: 1.0.0
+type: skill
+description: Explain complex technical concepts to non-technical people
+author: tunajam
+tags:
+  - communication
+  - writing
+  - teaching
+license: MIT
+source_url: https://github.com/tunajam/packs-registry

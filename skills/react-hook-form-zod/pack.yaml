@@ -1,0 +1,12 @@
+name: react-hook-form-zod
+version: 1.0.0
+type: skill
+description: Form handling with React Hook Form and Zod validation
+author: tunajam
+tags:
+  - react
+  - forms
+  - validation
+  - zod
+license: MIT
+source_url: https://github.com/tunajam/packs-registry

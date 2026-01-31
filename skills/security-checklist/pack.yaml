@@ -1,0 +1,11 @@
+name: security-checklist
+version: 1.0.0
+type: skill
+description: Common security vulnerabilities to check before shipping
+author: tunajam
+tags:
+  - security
+  - review
+  - checklist
+license: MIT
+source_url: https://github.com/tunajam/packs-registry

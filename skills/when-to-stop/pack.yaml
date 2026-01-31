@@ -1,0 +1,11 @@
+name: when-to-stop
+version: 1.0.0
+type: skill
+description: Recognize scope creep and know when good enough is good enough
+author: tunajam
+tags:
+  - planning
+  - scope
+  - productivity
+license: MIT
+source_url: https://github.com/tunajam/packs-registry

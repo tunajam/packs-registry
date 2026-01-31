@@ -1,0 +1,11 @@
+name: asking-good-questions
+version: 1.0.0
+type: skill
+description: Clarify requirements before building to avoid wasted work
+author: tunajam
+tags:
+  - planning
+  - requirements
+  - communication
+license: MIT
+source_url: https://github.com/tunajam/packs-registry
