@@ -1,0 +1,13 @@
+name: azure-functions
+version: 1.0.0
+type: context
+description: Azure Functions serverless patterns, triggers, bindings, and deployment best practices
+author: tunajam
+tags:
+  - azure
+  - serverless
+  - functions
+  - cloud
+  - backend
+license: MIT
+source_url: https://learn.microsoft.com/en-us/azure/azure-functions/

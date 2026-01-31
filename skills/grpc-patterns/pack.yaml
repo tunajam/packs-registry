@@ -1,0 +1,13 @@
+name: grpc-patterns
+version: 1.0.0
+type: context
+description: gRPC service design, protobuf patterns, streaming, error handling, and best practices
+author: tunajam
+tags:
+  - grpc
+  - protobuf
+  - api
+  - backend
+  - microservices
+license: MIT
+source_url: https://grpc.io/docs/

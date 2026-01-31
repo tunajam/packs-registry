@@ -1,0 +1,13 @@
+name: redis-patterns
+version: 1.0.0
+type: context
+description: Redis caching patterns, data structures, pub/sub, Lua scripting, and cluster operations
+author: tunajam
+tags:
+  - redis
+  - caching
+  - database
+  - pub-sub
+  - backend
+license: MIT
+source_url: https://redis.io/docs/

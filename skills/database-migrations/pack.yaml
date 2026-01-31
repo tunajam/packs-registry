@@ -1,0 +1,13 @@
+name: database-migrations
+version: 1.0.0
+type: skill
+description: Database migration patterns, zero-downtime strategies, rollbacks, and best practices
+author: tunajam
+tags:
+  - database
+  - migrations
+  - postgresql
+  - mysql
+  - devops
+license: MIT
+source_url: https://www.postgresql.org/docs/current/ddl.html

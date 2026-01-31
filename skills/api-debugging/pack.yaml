@@ -1,0 +1,13 @@
+name: api-debugging
+version: 1.0.0
+type: skill
+description: API debugging workflows, HTTP troubleshooting, performance analysis, and common issues
+author: tunajam
+tags:
+  - api
+  - debugging
+  - http
+  - backend
+  - troubleshooting
+license: MIT
+source_url: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status

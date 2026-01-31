@@ -1,0 +1,13 @@
+name: cloudflare-platform
+version: 1.0.0
+type: context
+description: Comprehensive Cloudflare platform guide covering Workers, R2, D1, KV, Queues, caching, and security
+author: tunajam
+tags:
+  - cloudflare
+  - workers
+  - edge
+  - serverless
+  - storage
+license: MIT
+source_url: https://developers.cloudflare.com/

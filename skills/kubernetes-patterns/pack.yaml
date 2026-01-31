@@ -1,0 +1,13 @@
+name: kubernetes-patterns
+version: 1.0.0
+type: context
+description: Kubernetes deployment patterns, resource configuration, networking, and troubleshooting
+author: tunajam
+tags:
+  - kubernetes
+  - k8s
+  - devops
+  - containers
+  - infrastructure
+license: MIT
+source_url: https://kubernetes.io/docs/

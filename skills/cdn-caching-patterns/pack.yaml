@@ -1,0 +1,13 @@
+name: cdn-caching-patterns
+version: 1.0.0
+type: context
+description: CDN caching strategies, cache invalidation, edge computing patterns, and cache headers
+author: tunajam
+tags:
+  - cdn
+  - caching
+  - cloudflare
+  - performance
+  - edge
+license: MIT
+source_url: https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching

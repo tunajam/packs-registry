@@ -1,0 +1,13 @@
+name: docker-patterns
+version: 1.0.0
+type: context
+description: Docker best practices, multi-stage builds, security, compose patterns, and optimization
+author: tunajam
+tags:
+  - docker
+  - containers
+  - devops
+  - deployment
+  - infrastructure
+license: MIT
+source_url: https://docs.docker.com/develop/develop-images/guidelines/

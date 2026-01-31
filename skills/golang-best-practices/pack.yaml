@@ -1,0 +1,13 @@
+name: golang-best-practices
+version: 1.0.0
+type: context
+description: Idiomatic Go patterns, concurrency, error handling, testing, and performance optimization
+author: tunajam
+tags:
+  - golang
+  - go
+  - backend
+  - concurrency
+  - performance
+license: MIT
+source_url: https://go.dev/doc/effective_go

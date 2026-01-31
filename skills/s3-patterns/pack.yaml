@@ -1,0 +1,13 @@
+name: s3-patterns
+version: 1.0.0
+type: context
+description: AWS S3 bucket policies, presigned URLs, multipart uploads, lifecycle rules, and performance optimization
+author: tunajam
+tags:
+  - aws
+  - s3
+  - storage
+  - cloud
+  - backend
+license: MIT
+source_url: https://docs.aws.amazon.com/AmazonS3/latest/userguide/

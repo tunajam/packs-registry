@@ -1,0 +1,13 @@
+name: azure-blob-storage
+version: 1.0.0
+type: context
+description: Azure Blob Storage patterns, SAS tokens, lifecycle management, and performance optimization
+author: tunajam
+tags:
+  - azure
+  - storage
+  - blob
+  - cloud
+  - backend
+license: MIT
+source_url: https://learn.microsoft.com/en-us/azure/storage/blobs/

@@ -1,0 +1,13 @@
+name: postgresql-advanced
+version: 1.0.0
+type: context
+description: Advanced PostgreSQL queries, indexes, performance tuning, extensions, and operational patterns
+author: tunajam
+tags:
+  - postgresql
+  - postgres
+  - database
+  - sql
+  - performance
+license: MIT
+source_url: https://www.postgresql.org/docs/current/
