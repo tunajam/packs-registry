@@ -1,0 +1,11 @@
+name: pairwise-testing
+version: 1.0.0
+type: skill
+description: Pairwise test generation with pypict
+author: omkamal
+tags:
+  - testing
+  - pairwise
+  - quality
+license: MIT
+source_url: https://github.com/omkamal/pypict-claude-skill

@@ -1,0 +1,11 @@
+name: expo-app-design
+version: 1.0.0
+type: skill
+description: Design and build Expo applications
+author: expo
+tags:
+  - expo
+  - react-native
+  - mobile
+license: MIT
+source_url: https://github.com/expo/skills/tree/main/plugins/expo-app-design

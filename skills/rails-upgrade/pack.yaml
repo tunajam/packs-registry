@@ -1,0 +1,11 @@
+name: rails-upgrade
+version: 1.0.0
+type: skill
+description: Analyze Rails apps and provide upgrade assessments
+author: robzolkos
+tags:
+  - rails
+  - ruby
+  - upgrade
+license: MIT
+source_url: https://github.com/robzolkos/skill-rails-upgrade

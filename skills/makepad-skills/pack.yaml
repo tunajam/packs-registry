@@ -1,0 +1,11 @@
+name: makepad-skills
+version: 1.0.0
+type: skill
+description: Makepad UI development skills for Rust apps
+author: ZhangHanDong
+tags:
+  - makepad
+  - rust
+  - ui
+license: MIT
+source_url: https://github.com/ZhangHanDong/makepad-skills

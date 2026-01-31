@@ -1,0 +1,11 @@
+name: finishing-a-development-branch
+version: 1.0.0
+type: skill
+description: Complete Git code branches properly before merging
+author: obra
+tags:
+  - git
+  - workflow
+  - development
+license: MIT
+source_url: https://github.com/obra/superpowers/tree/main/skills/finishing-a-development-branch

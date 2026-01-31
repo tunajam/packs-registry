@@ -1,0 +1,11 @@
+name: executing-plans
+version: 1.0.0
+type: skill
+description: Implement and run strategic plans systematically
+author: obra
+tags:
+  - planning
+  - execution
+  - workflow
+license: MIT
+source_url: https://github.com/obra/superpowers/tree/main/skills/executing-plans

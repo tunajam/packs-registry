@@ -1,0 +1,11 @@
+name: subagent-driven-development
+version: 1.0.0
+type: skill
+description: Development using multiple coordinated sub-agents
+author: obra
+tags:
+  - agents
+  - development
+  - coordination
+license: MIT
+source_url: https://github.com/obra/superpowers/tree/main/skills/subagent-driven-development

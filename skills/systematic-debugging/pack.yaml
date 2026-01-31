@@ -1,0 +1,11 @@
+name: systematic-debugging
+version: 1.0.0
+type: skill
+description: Methodical problem-solving approach for debugging code
+author: obra
+tags:
+  - debugging
+  - development
+  - methodology
+license: MIT
+source_url: https://github.com/obra/superpowers/tree/main/skills/systematic-debugging

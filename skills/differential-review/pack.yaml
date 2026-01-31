@@ -1,0 +1,11 @@
+name: differential-review
+version: 1.0.0
+type: skill
+description: Security-focused diff review with git history analysis
+author: trailofbits
+tags:
+  - security
+  - code-review
+  - git
+license: MIT
+source_url: https://github.com/trailofbits/skills/tree/main/plugins/differential-review

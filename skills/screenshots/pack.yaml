@@ -1,0 +1,11 @@
+name: screenshots
+version: 1.0.0
+type: skill
+description: Generate marketing screenshots with Playwright
+author: shpigford
+tags:
+  - screenshots
+  - marketing
+  - automation
+license: MIT
+source_url: https://github.com/Shpigford/skills/tree/main/screenshots

@@ -1,0 +1,11 @@
+name: building-secure-contracts
+version: 1.0.0
+type: skill
+description: Smart contract security toolkit with vulnerability scanners
+author: trailofbits
+tags:
+  - security
+  - smart-contracts
+  - blockchain
+license: MIT
+source_url: https://github.com/trailofbits/skills/tree/main/plugins/building-secure-contracts

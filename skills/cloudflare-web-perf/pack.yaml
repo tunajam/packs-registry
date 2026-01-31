@@ -1,0 +1,11 @@
+name: cloudflare-web-perf
+version: 1.0.0
+type: skill
+description: Audit Core Web Vitals and render-blocking resources
+author: cloudflare
+tags:
+  - performance
+  - web-vitals
+  - optimization
+license: MIT
+source_url: https://github.com/cloudflare/skills/tree/main/web-perf

@@ -1,0 +1,11 @@
+name: beautiful-prose
+version: 1.0.0
+type: skill
+description: Hard-edged writing style for forceful English prose
+author: SHADOWPR0
+tags:
+  - writing
+  - style
+  - prose
+license: MIT
+source_url: https://github.com/SHADOWPR0/beautiful_prose

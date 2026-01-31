@@ -1,0 +1,11 @@
+name: web-design-guidelines
+version: 1.0.0
+type: skill
+description: Web design guidelines and standards from Vercel
+author: vercel-labs
+tags:
+  - design
+  - web
+  - guidelines
+license: MIT
+source_url: https://github.com/vercel-labs/agent-skills/tree/main/skills/web-design-guidelines

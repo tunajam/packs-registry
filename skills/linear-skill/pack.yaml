@@ -1,0 +1,11 @@
+name: linear-skill
+version: 1.0.0
+type: skill
+description: Manage Linear issues, projects, and teams
+author: wrsmith108
+tags:
+  - linear
+  - project-management
+  - productivity
+license: MIT
+source_url: https://github.com/wrsmith108/linear-claude-skill

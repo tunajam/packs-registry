@@ -1,0 +1,11 @@
+name: receiving-code-review
+version: 1.0.0
+type: skill
+description: Process and incorporate code feedback effectively
+author: obra
+tags:
+  - code-review
+  - git
+  - collaboration
+license: MIT
+source_url: https://github.com/obra/superpowers/tree/main/skills/receiving-code-review

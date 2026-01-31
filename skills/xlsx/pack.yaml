@@ -1,0 +1,11 @@
+name: xlsx
+version: 1.0.0
+type: skill
+description: Create, edit, and analyze Excel spreadsheets
+author: anthropic
+tags:
+  - spreadsheets
+  - office
+  - excel
+license: MIT
+source_url: https://github.com/anthropics/skills/tree/main/skills/xlsx

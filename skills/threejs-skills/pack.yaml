@@ -1,0 +1,11 @@
+name: threejs-skills
+version: 1.0.0
+type: skill
+description: Three.js skills for creating 3D elements and interactive experiences
+author: CloudAI-X
+tags:
+  - threejs
+  - 3d
+  - webgl
+license: MIT
+source_url: https://github.com/CloudAI-X/threejs-skills

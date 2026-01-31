@@ -1,0 +1,11 @@
+name: semgrep-rule-creator
+version: 1.0.0
+type: skill
+description: Create and refine Semgrep rules for vulnerability detection
+author: trailofbits
+tags:
+  - security
+  - semgrep
+  - static-analysis
+license: MIT
+source_url: https://github.com/trailofbits/skills/tree/main/plugins/semgrep-rule-creator

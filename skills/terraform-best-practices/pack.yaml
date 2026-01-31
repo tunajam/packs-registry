@@ -1,0 +1,11 @@
+name: terraform-best-practices
+version: 1.0.0
+type: skill
+description: Terraform infrastructure as code best practices
+author: antonbabenko
+tags:
+  - terraform
+  - infrastructure
+  - devops
+license: MIT
+source_url: https://github.com/antonbabenko/terraform-skill

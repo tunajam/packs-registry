@@ -1,0 +1,11 @@
+name: swift-patterns
+version: 1.0.0
+type: skill
+description: Modern Swift/SwiftUI best practices
+author: efremidze
+tags:
+  - swift
+  - ios
+  - patterns
+license: MIT
+source_url: https://github.com/efremidze/swift-patterns-skill/tree/main/swift-patterns

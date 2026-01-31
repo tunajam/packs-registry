@@ -1,0 +1,11 @@
+name: fal-audio
+version: 1.0.0
+type: skill
+description: Text-to-speech and speech-to-text using fal.ai audio models
+author: fal-ai-community
+tags:
+  - ai
+  - audio
+  - tts
+license: MIT
+source_url: https://github.com/fal-ai-community/skills/tree/main/skills/claude.ai/fal-audio

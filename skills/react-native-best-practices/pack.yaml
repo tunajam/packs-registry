@@ -1,0 +1,11 @@
+name: react-native-best-practices
+version: 1.0.0
+type: skill
+description: React Native best practices and performance guidelines
+author: vercel-labs
+tags:
+  - react-native
+  - mobile
+  - performance
+license: MIT
+source_url: https://github.com/vercel-labs/agent-skills/tree/main/skills/react-native-skills

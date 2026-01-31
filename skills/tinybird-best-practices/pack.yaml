@@ -1,0 +1,11 @@
+name: tinybird-best-practices
+version: 1.0.0
+type: skill
+description: Tinybird guidelines for datasources, pipes, endpoints, and SQL
+author: tinybirdco
+tags:
+  - tinybird
+  - analytics
+  - sql
+license: MIT
+source_url: https://github.com/tinybirdco/tinybird-agent-skills/tree/main/skills/tinybird-best-practices

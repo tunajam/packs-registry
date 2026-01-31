@@ -1,0 +1,11 @@
+name: upgrading-expo
+version: 1.0.0
+type: skill
+description: Upgrade Expo SDK versions
+author: expo
+tags:
+  - expo
+  - upgrade
+  - mobile
+license: MIT
+source_url: https://github.com/expo/skills/tree/main/plugins/upgrading-expo

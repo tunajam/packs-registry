@@ -1,0 +1,11 @@
+name: swiftui-expert
+version: 1.0.0
+type: skill
+description: Modern SwiftUI best practices and iOS 26+ Liquid Glass adoption
+author: AvdLee
+tags:
+  - swiftui
+  - ios
+  - apple
+license: MIT
+source_url: https://github.com/AvdLee/SwiftUI-Agent-Skill/tree/main/swiftui-expert-skill

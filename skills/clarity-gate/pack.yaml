@@ -1,0 +1,11 @@
+name: clarity-gate
+version: 1.0.0
+type: skill
+description: Pre-ingestion verification for epistemic quality in RAG systems
+author: frmoretto
+tags:
+  - rag
+  - verification
+  - quality
+license: MIT
+source_url: https://github.com/frmoretto/clarity-gate

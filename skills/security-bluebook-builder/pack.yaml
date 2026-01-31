@@ -1,0 +1,11 @@
+name: security-bluebook-builder
+version: 1.0.0
+type: skill
+description: Build security Blue Books for sensitive applications
+author: SHADOWPR0
+tags:
+  - security
+  - documentation
+  - compliance
+license: MIT
+source_url: https://github.com/SHADOWPR0/security-bluebook-builder

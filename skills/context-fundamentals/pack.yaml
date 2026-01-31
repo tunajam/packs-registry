@@ -1,0 +1,11 @@
+name: context-fundamentals
+version: 1.0.0
+type: skill
+description: Understand context anatomy in agent systems
+author: muratcankoylan
+tags:
+  - context
+  - agents
+  - engineering
+license: MIT
+source_url: https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/context-fundamentals

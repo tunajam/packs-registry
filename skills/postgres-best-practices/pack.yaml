@@ -1,0 +1,11 @@
+name: postgres-best-practices
+version: 1.0.0
+type: skill
+description: PostgreSQL best practices for Supabase
+author: supabase
+tags:
+  - postgres
+  - supabase
+  - database
+license: MIT
+source_url: https://github.com/supabase/agent-skills/tree/main/skills/supabase-postgres-best-practices

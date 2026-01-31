@@ -1,0 +1,11 @@
+name: multi-agent-patterns
+version: 1.0.0
+type: skill
+description: Master orchestrator and multi-agent architectures
+author: muratcankoylan
+tags:
+  - agents
+  - patterns
+  - orchestration
+license: MIT
+source_url: https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/multi-agent-patterns

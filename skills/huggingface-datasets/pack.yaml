@@ -1,0 +1,11 @@
+name: huggingface-datasets
+version: 1.0.0
+type: skill
+description: Create and manage datasets with configs and SQL querying
+author: huggingface
+tags:
+  - huggingface
+  - datasets
+  - ml
+license: MIT
+source_url: https://github.com/huggingface/skills/tree/main/skills/hugging-face-datasets

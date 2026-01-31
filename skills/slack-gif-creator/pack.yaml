@@ -1,0 +1,11 @@
+name: slack-gif-creator
+version: 1.0.0
+type: skill
+description: Create animated GIFs optimized for Slack size constraints
+author: anthropic
+tags:
+  - media
+  - gif
+  - slack
+license: MIT
+source_url: https://github.com/anthropics/skills/tree/main/skills/slack-gif-creator

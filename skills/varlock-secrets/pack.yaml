@@ -1,0 +1,11 @@
+name: varlock-secrets
+version: 1.0.0
+type: skill
+description: Secure environment variable management
+author: wrsmith108
+tags:
+  - secrets
+  - security
+  - environment
+license: MIT
+source_url: https://github.com/wrsmith108/varlock-claude-skill

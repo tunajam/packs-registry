@@ -1,0 +1,11 @@
+name: better-auth-best-practices
+version: 1.0.0
+type: skill
+description: Best practices for Better Auth integration
+author: better-auth
+tags:
+  - authentication
+  - security
+  - better-auth
+license: MIT
+source_url: https://github.com/better-auth/skills/tree/main/better-auth/best-practices

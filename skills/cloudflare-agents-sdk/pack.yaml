@@ -1,0 +1,11 @@
+name: cloudflare-agents-sdk
+version: 1.0.0
+type: skill
+description: Build stateful AI agents with scheduling, RPC, and MCP servers
+author: cloudflare
+tags:
+  - cloudflare
+  - agents
+  - sdk
+license: MIT
+source_url: https://github.com/cloudflare/skills/tree/main/agents-sdk

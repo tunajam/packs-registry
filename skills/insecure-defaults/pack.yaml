@@ -1,0 +1,11 @@
+name: insecure-defaults
+version: 1.0.0
+type: skill
+description: Detect insecure defaults like hardcoded secrets and weak crypto
+author: trailofbits
+tags:
+  - security
+  - detection
+  - secrets
+license: MIT
+source_url: https://github.com/trailofbits/skills/tree/main/plugins/insecure-defaults

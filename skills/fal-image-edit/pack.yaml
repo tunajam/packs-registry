@@ -1,0 +1,11 @@
+name: fal-image-edit
+version: 1.0.0
+type: skill
+description: AI-powered image editing with style transfer and object removal
+author: fal-ai-community
+tags:
+  - ai
+  - image-editing
+  - fal
+license: MIT
+source_url: https://github.com/fal-ai-community/skills/tree/main/skills/claude.ai/fal-image-edit

@@ -1,0 +1,11 @@
+name: tool-design
+version: 1.0.0
+type: skill
+description: Build tools that agents can use effectively
+author: muratcankoylan
+tags:
+  - tools
+  - agents
+  - design
+license: MIT
+source_url: https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/tool-design

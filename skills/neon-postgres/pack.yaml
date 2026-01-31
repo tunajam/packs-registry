@@ -1,0 +1,11 @@
+name: neon-postgres
+version: 1.0.0
+type: skill
+description: Best practices for Neon Serverless Postgres
+author: neondatabase
+tags:
+  - postgres
+  - neon
+  - serverless
+license: MIT
+source_url: https://github.com/neondatabase/agent-skills/tree/main/skills/neon-postgres

@@ -1,0 +1,11 @@
+name: canvas-design
+version: 1.0.0
+type: skill
+description: Design visual art and graphics in PNG and PDF formats
+author: anthropic
+tags:
+  - design
+  - graphics
+  - creative
+license: MIT
+source_url: https://github.com/anthropics/skills/tree/main/skills/canvas-design

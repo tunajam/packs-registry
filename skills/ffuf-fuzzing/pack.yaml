@@ -1,0 +1,11 @@
+name: ffuf-fuzzing
+version: 1.0.0
+type: skill
+description: Web fuzzing with ffuf for security testing
+author: jthack
+tags:
+  - security
+  - fuzzing
+  - web
+license: MIT
+source_url: https://github.com/jthack/ffuf_claude_skill

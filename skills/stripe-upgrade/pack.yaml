@@ -1,0 +1,11 @@
+name: stripe-upgrade
+version: 1.0.0
+type: skill
+description: Upgrade Stripe SDK and API versions
+author: stripe
+tags:
+  - stripe
+  - upgrade
+  - sdk
+license: MIT
+source_url: https://github.com/stripe/ai/tree/main/skills/upgrade-stripe

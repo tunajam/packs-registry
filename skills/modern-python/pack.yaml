@@ -1,0 +1,11 @@
+name: modern-python
+version: 1.0.0
+type: skill
+description: Modern Python tooling with uv, ruff, ty, and pytest
+author: trailofbits
+tags:
+  - python
+  - tooling
+  - best-practices
+license: MIT
+source_url: https://github.com/trailofbits/skills/tree/main/plugins/modern-python

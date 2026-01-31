@@ -1,0 +1,11 @@
+name: stripe-best-practices
+version: 1.0.0
+type: skill
+description: Best practices for building Stripe integrations
+author: stripe
+tags:
+  - stripe
+  - payments
+  - integration
+license: MIT
+source_url: https://github.com/stripe/ai/tree/main/skills/stripe-best-practices

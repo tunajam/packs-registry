@@ -1,0 +1,11 @@
+name: cloudflare-durable-objects
+version: 1.0.0
+type: skill
+description: Stateful coordination with RPC, SQLite, and WebSockets
+author: cloudflare
+tags:
+  - cloudflare
+  - durable-objects
+  - state
+license: MIT
+source_url: https://github.com/cloudflare/skills/tree/main/durable-objects

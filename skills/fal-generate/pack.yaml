@@ -1,0 +1,11 @@
+name: fal-generate
+version: 1.0.0
+type: skill
+description: Generate images and videos using fal.ai AI models
+author: fal-ai-community
+tags:
+  - ai
+  - image-generation
+  - fal
+license: MIT
+source_url: https://github.com/fal-ai-community/skills/tree/main/skills/claude.ai/fal-generate

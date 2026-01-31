@@ -1,0 +1,11 @@
+name: aws-skills
+version: 1.0.0
+type: skill
+description: AWS development with infrastructure automation and cloud patterns
+author: zxkane
+tags:
+  - aws
+  - cloud
+  - infrastructure
+license: MIT
+source_url: https://github.com/zxkane/aws-skills

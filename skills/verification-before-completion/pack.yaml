@@ -1,0 +1,11 @@
+name: verification-before-completion
+version: 1.0.0
+type: skill
+description: Validate work thoroughly before marking complete
+author: obra
+tags:
+  - quality
+  - verification
+  - workflow
+license: MIT
+source_url: https://github.com/obra/superpowers/tree/main/skills/verification-before-completion

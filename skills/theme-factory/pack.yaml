@@ -1,0 +1,11 @@
+name: theme-factory
+version: 1.0.0
+type: skill
+description: Style artifacts with professional themes or generate custom themes
+author: anthropic
+tags:
+  - design
+  - themes
+  - styling
+license: MIT
+source_url: https://github.com/anthropics/skills/tree/main/skills/theme-factory

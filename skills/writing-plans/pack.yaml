@@ -1,0 +1,11 @@
+name: writing-plans
+version: 1.0.0
+type: skill
+description: Create strategic documentation and project plans
+author: obra
+tags:
+  - planning
+  - documentation
+  - strategy
+license: MIT
+source_url: https://github.com/obra/superpowers/tree/main/skills/writing-plans

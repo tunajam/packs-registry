@@ -1,0 +1,11 @@
+name: ios-simulator-skill
+version: 1.0.0
+type: skill
+description: Control iOS Simulator for mobile development
+author: conorluddy
+tags:
+  - ios
+  - mobile
+  - simulator
+license: MIT
+source_url: https://github.com/conorluddy/ios-simulator-skill

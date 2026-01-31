@@ -1,0 +1,11 @@
+name: docx
+version: 1.0.0
+type: skill
+description: Create, edit, and analyze Word documents
+author: anthropic
+tags:
+  - documents
+  - office
+  - word
+license: MIT
+source_url: https://github.com/anthropics/skills/tree/main/skills/docx

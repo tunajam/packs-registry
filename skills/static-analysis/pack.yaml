@@ -1,0 +1,11 @@
+name: static-analysis
+version: 1.0.0
+type: skill
+description: Static analysis toolkit with CodeQL, Semgrep, and SARIF
+author: trailofbits
+tags:
+  - security
+  - static-analysis
+  - codeql
+license: MIT
+source_url: https://github.com/trailofbits/skills/tree/main/plugins/static-analysis

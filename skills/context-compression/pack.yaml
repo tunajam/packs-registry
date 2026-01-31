@@ -1,0 +1,11 @@
+name: context-compression
+version: 1.0.0
+type: skill
+description: Design compression strategies for long-running sessions
+author: muratcankoylan
+tags:
+  - context
+  - compression
+  - agents
+license: MIT
+source_url: https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/context-compression

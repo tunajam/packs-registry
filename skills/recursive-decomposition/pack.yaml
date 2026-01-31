@@ -1,0 +1,11 @@
+name: recursive-decomposition
+version: 1.0.0
+type: skill
+description: Handle long-context tasks through recursive decomposition
+author: massimodeluisa
+tags:
+  - context
+  - decomposition
+  - large-tasks
+license: MIT
+source_url: https://github.com/massimodeluisa/recursive-decomposition-skill

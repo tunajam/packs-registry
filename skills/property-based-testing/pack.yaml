@@ -1,0 +1,11 @@
+name: property-based-testing
+version: 1.0.0
+type: skill
+description: Property-based testing for multiple languages and smart contracts
+author: trailofbits
+tags:
+  - testing
+  - security
+  - fuzzing
+license: MIT
+source_url: https://github.com/trailofbits/skills/tree/main/plugins/property-based-testing

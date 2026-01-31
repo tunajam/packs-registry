@@ -1,0 +1,11 @@
+name: sentry-find-bugs
+version: 1.0.0
+type: skill
+description: Find and identify bugs in code using Sentry patterns
+author: getsentry
+tags:
+  - debugging
+  - sentry
+  - quality
+license: MIT
+source_url: https://github.com/getsentry/skills/tree/main/plugins/sentry-skills/skills/find-bugs

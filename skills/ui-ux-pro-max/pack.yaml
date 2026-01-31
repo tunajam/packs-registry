@@ -1,0 +1,11 @@
+name: ui-ux-pro-max
+version: 1.0.0
+type: skill
+description: UI/UX design patterns and best practices
+author: nextlevelbuilder
+tags:
+  - ui
+  - ux
+  - design
+license: MIT
+source_url: https://github.com/nextlevelbuilder/ui-ux-pro-max-skill

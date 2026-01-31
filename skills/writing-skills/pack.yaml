@@ -1,0 +1,11 @@
+name: writing-skills
+version: 1.0.0
+type: skill
+description: Develop and document AI agent capabilities
+author: obra
+tags:
+  - meta
+  - skills
+  - documentation
+license: MIT
+source_url: https://github.com/obra/superpowers/tree/main/skills/writing-skills

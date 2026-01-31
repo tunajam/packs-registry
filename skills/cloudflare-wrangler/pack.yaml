@@ -1,0 +1,11 @@
+name: cloudflare-wrangler
+version: 1.0.0
+type: skill
+description: Deploy and manage Workers, KV, R2, D1, Vectorize, Queues
+author: cloudflare
+tags:
+  - cloudflare
+  - workers
+  - deployment
+license: MIT
+source_url: https://github.com/cloudflare/skills/tree/main/wrangler

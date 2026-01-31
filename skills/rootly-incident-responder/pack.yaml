@@ -1,0 +1,11 @@
+name: rootly-incident-responder
+version: 1.0.0
+type: skill
+description: AI-powered incident response with ML similarity matching
+author: Rootly-AI-Labs
+tags:
+  - incident-response
+  - devops
+  - ml
+license: MIT
+source_url: https://github.com/Rootly-AI-Labs/Rootly-MCP-server/tree/main/examples/skills

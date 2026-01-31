@@ -1,0 +1,11 @@
+name: requesting-code-review
+version: 1.0.0
+type: skill
+description: Initiate code review processes with proper context
+author: obra
+tags:
+  - code-review
+  - git
+  - collaboration
+license: MIT
+source_url: https://github.com/obra/superpowers/tree/main/skills/requesting-code-review

@@ -1,0 +1,11 @@
+name: pptx
+version: 1.0.0
+type: skill
+description: Create, edit, and analyze PowerPoint presentations
+author: anthropic
+tags:
+  - presentations
+  - office
+  - powerpoint
+license: MIT
+source_url: https://github.com/anthropics/skills/tree/main/skills/pptx

@@ -1,0 +1,11 @@
+name: ui-skills
+version: 1.0.0
+type: skill
+description: Opinionated constraints for building interfaces
+author: ibelick
+tags:
+  - ui
+  - design
+  - frontend
+license: MIT
+source_url: https://github.com/ibelick/ui-skills

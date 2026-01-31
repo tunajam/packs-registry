@@ -1,0 +1,11 @@
+name: using-superpowers
+version: 1.0.0
+type: skill
+description: Leverage core platform capabilities effectively
+author: obra
+tags:
+  - meta
+  - capabilities
+  - agents
+license: MIT
+source_url: https://github.com/obra/superpowers/tree/main/skills/using-superpowers

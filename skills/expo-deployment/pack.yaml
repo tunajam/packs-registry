@@ -1,0 +1,11 @@
+name: expo-deployment
+version: 1.0.0
+type: skill
+description: Deploy Expo apps to production
+author: expo
+tags:
+  - expo
+  - deployment
+  - mobile
+license: MIT
+source_url: https://github.com/expo/skills/tree/main/plugins/expo-deployment

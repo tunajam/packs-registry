@@ -1,0 +1,11 @@
+name: brand-guidelines
+version: 1.0.0
+type: skill
+description: Apply Anthropic brand colors and typography to artifacts
+author: anthropic
+tags:
+  - design
+  - branding
+  - anthropic
+license: MIT
+source_url: https://github.com/anthropics/skills/tree/main/skills/brand-guidelines

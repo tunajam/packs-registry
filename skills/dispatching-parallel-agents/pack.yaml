@@ -1,0 +1,11 @@
+name: dispatching-parallel-agents
+version: 1.0.0
+type: skill
+description: Coordinate multiple simultaneous agents for parallel work
+author: obra
+tags:
+  - agents
+  - parallel
+  - coordination
+license: MIT
+source_url: https://github.com/obra/superpowers/tree/main/skills/dispatching-parallel-agents

@@ -1,0 +1,11 @@
+name: remotion
+version: 1.0.0
+type: skill
+description: Programmatic video creation with React
+author: remotion-dev
+tags:
+  - video
+  - react
+  - creative
+license: MIT
+source_url: https://github.com/remotion-dev/skills/tree/main/skills/remotion

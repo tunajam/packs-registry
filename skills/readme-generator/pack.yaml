@@ -1,0 +1,11 @@
+name: readme-generator
+version: 1.0.0
+type: skill
+description: Generate comprehensive project documentation
+author: shpigford
+tags:
+  - documentation
+  - readme
+  - automation
+license: MIT
+source_url: https://github.com/Shpigford/skills/tree/main/readme

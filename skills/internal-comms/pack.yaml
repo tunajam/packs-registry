@@ -1,0 +1,11 @@
+name: internal-comms
+version: 1.0.0
+type: skill
+description: Write status reports, newsletters, and FAQs
+author: anthropic
+tags:
+  - communication
+  - writing
+  - business
+license: MIT
+source_url: https://github.com/anthropics/skills/tree/main/skills/internal-comms

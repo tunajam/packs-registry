@@ -1,0 +1,11 @@
+name: n8n-workflow-patterns
+version: 1.0.0
+type: skill
+description: Workflow patterns for webhook, HTTP, database, and AI tasks
+author: czlonkowski
+tags:
+  - n8n
+  - workflows
+  - automation
+license: MIT
+source_url: https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-workflow-patterns

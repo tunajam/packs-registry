@@ -1,0 +1,11 @@
+name: huggingface-cli
+version: 1.0.0
+type: skill
+description: HF Hub CLI for models, datasets, repos, and compute jobs
+author: huggingface
+tags:
+  - huggingface
+  - ml
+  - cli
+license: MIT
+source_url: https://github.com/huggingface/skills/tree/main/skills/hugging-face-cli

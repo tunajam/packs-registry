@@ -1,0 +1,11 @@
+name: frontend-slides
+version: 1.0.0
+type: skill
+description: Generate animation-rich HTML presentations
+author: zarazhangrui
+tags:
+  - presentations
+  - html
+  - animation
+license: MIT
+source_url: https://github.com/zarazhangrui/frontend-slides

@@ -1,0 +1,11 @@
+name: sentry-code-review
+version: 1.0.0
+type: skill
+description: Perform code reviews with Sentry best practices
+author: getsentry
+tags:
+  - code-review
+  - sentry
+  - quality
+license: MIT
+source_url: https://github.com/getsentry/skills/tree/main/plugins/sentry-skills/skills/code-review
