@@ -1,13 +1,15 @@
 name: frontend-design
-version: 1.0.0
+version: 2.0.0
 type: skill
-description: Create distinctive, production-grade frontend interfaces avoiding generic AI aesthetics
-author: anthropic
+description: Build frontend interfaces that look designed, not generated. Opinionated guide to typography, color, layout, motion, and the details that separate real design from AI slop.
+author: tunajam
 tags:
   - frontend
   - design
   - ui
-  - react
   - css
-license: Anthropic
-source_url: https://github.com/anthropics/skills
+  - tailwind
+  - react
+  - components
+license: MIT
+source_url: https://github.com/tunajam/packs-registry
